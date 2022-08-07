@@ -1,3 +1,7 @@
+# Four steps to deploy this repository to free Heroku
+- First fork this repo;
+- Second follow [STEP FOUR in this archived webinar](https://web.archive.org/web/20220807102402/https://www.geeksforgeeks.org/how-to-deploy-node-js-app-on-heroku-from-github/)
+
 # whiteboard
 
 This is a lightweight NodeJS collaborative Whiteboard/Sketchboard which can easily be customized...
